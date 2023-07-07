@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class SshController extends Controller
 {
-    public function __invoke()
+    public function sshFromGitLaravel2()
     {
-        return 1;
+        return '';
     }
 }
